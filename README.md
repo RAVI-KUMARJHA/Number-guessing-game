@@ -39,6 +39,16 @@ python main.py
 - File Handling
 - GUI Version (Tkinter)
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](menu.png)
+
+### Gameplay
+
+![Gameplay](gameplay.png)
+
 ## Author
 
 Ravi Kumar Jha
